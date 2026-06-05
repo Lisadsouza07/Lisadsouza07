@@ -1,25 +1,40 @@
-## Hi there, I'm Lisa👋
+# Hello, I'm Lisa D'souza 👋
 
-## About Me
-I'm majoring in Computer Science with a Minor in Psychology at the University of Alberta!
+## 👩‍💻 About Me
 
-## Tech I work with!
+I'm majoring in **Computer Science** with a **Minor in Psychology** at the University of Alberta!
+
+## 🛠️ Tech I Work With
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,postgresql,mysql,git,github,vscode" />
 </p>
 
-## Check out my stats
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lisadsouza07&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisadsouza07&layout=compact&theme=tokyonight)
+<p align="center">
+  
+  <img height="190em" src="https://github-readme-stats-psi-coral-95.vercel.app/api/top-langs/?username=Lisadsouza07&layout=compact&theme=tokyonight" />
+  <img height="190em" src="https://github-readme-stats-psi-coral-95.vercel.app/api?username=Lisadsouza07&show_icons=true&theme=tokyonight" />
 
-## Current Interests
-- Software Development
-- Machine Learning
-- Data Analysis
+</p>
 
+## 🌱 Current Interests
+
+- 💻 Software Development
+- 🤖 Machine Learning
+- 📈 Data Analysis
+- ☁️ Cloud Technologies
+
+## 📫 Where to Find Me
+
+<a href="https://www.linkedin.com/in/lisadsouza1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:lmdsouza@ualberta.ca">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 
