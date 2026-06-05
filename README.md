@@ -7,7 +7,7 @@ I'm majoring in **Computer Science** with a **Minor in Psychology** at the Unive
 ## 🛠️ Tech I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,postgresql,mysql,vscode" />
 </p>
 
 ## 📊 GitHub Stats
