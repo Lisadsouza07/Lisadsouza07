@@ -3,7 +3,8 @@
 ## 👩‍💻 About Me
 
 I'm majoring in **Computer Science** with a **Minor in Psychology** at the University of Alberta!
-            I like building cool things for real world users :D
+<p align = "left">
+ I like building cool things for real world users :D
 
 ## 🛠️ Tech I Work With
 
